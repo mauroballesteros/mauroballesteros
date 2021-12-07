@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mauroballesteros
-- 👀 I’m interested in health analytics
-- 🌱 I’m currently learning data analytics and machine learning
+- Interested in health analytics
+- 🌱 Master in Science in Analytics @UChicago
 
 
 <!---
